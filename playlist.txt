@@ -1,10 +1,10 @@
-Stairway to Heaven - Led Zeppelin
-Bohemian Rhapsody - Queen
-Hotel California - Eagles
-Imagine- John Lennon
-Like a Rolling Stone - Bob Dylan
-Hey Jude - The Beatles
-Purple Haze - Jimi Hendrix
-Smells Like Teen Spirit - Nirvana
-Wonderwall - Oasis
-Yesterday - The Beatles
+Stairway to Heaven  - Led Zeppelin - Rock
+Bohemian Rhapsody  - Queen - Rock
+Hotel California  - Eagles - Heavy Metal
+Imagine - John Lennon - Pop
+Like a Rolling Stone  - Bob Dylan - Rock
+Hey Jude  - The Beatles - Rock
+Purple Haze  - Jimi Hendrix - Rock
+Smells Like Teen Spirit  - Nirvana - Rock alternativo
+Wonderwall  - Oasis - Rock alternativo
+Yesterday  - The Beatles - Rock alternativo
