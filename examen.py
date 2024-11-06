@@ -42,6 +42,16 @@ def ordenar_alfabeticamente(diccionario_canciones):
 
     return list_diccionario
 
+def buscar_por_artista(diccionario,artista):
+    lista_artista = []
+    
+    
+    for cancion in diccionario:
+        if diccionario[cancion] == artista:
+            lista_artista.append(cancion)
+    
+    return lista_artista
+
 def contar_canciones(diccionario_canciones):
 
     total_canciones = len(diccionario_canciones.values())
