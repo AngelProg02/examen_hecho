@@ -27,7 +27,7 @@ Parte 3: Creación de Listas de Reproducción
 ✅ 3.1. Crear Lista de Reproducción Aleatoria: (2 puntos)
 Escribe una función llamada crear_lista_aleatoria que tome un diccionario de canciones y un número n como argumentos, y devuelva una lista aleatoria de n canciones del diccionario de canciones original.
 
-3.2. Guardar Lista de Reproducción en Archivo: (1 punto)
+✅ 3.2. Guardar Lista de Reproducción en Archivo: (1 punto)
 Escribe una función llamada guardar_lista que tome un diccionario de canciones y el nombre de un archivo como argumentos, y guarde todas las canciones del diccionario en el archivo de texto, una por línea, en el formato "título de la canción - artista".
 
 Instrucciones para la Evaluación:
